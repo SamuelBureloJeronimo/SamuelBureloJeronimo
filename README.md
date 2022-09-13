@@ -1,4 +1,4 @@
-# Hello I´m Samuel
+# System.out.println("Hello I´m Samuel");
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
