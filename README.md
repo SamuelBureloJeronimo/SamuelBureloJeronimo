@@ -1,5 +1,5 @@
-# Hola me llamo Samuel, un placer;
-Here are some ideas to get you started:
+# Hola me llamo Samuel, un placer.
+Mi nombre es Samuel Burelos Jeronimo naci en Macuspana, Tabasco. Actualmente estoy cursando mi carrera universitaria Ing. Sistemas computacionales.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
